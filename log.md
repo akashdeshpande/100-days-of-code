@@ -21,6 +21,13 @@
 **Thoughts** I have a little difficulty understanding the collaboration part. But I have a feeling I will get through it.
 
 
+### Day 4: September 25, Friday
+
+**Today's Progress**: Completed basics of HTML and HTML5
+
+**Thoughts** It was relatiely easy. I am scared of the javascript and framework stuff because I think it is too difficult to master.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
