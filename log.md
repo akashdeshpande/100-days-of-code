@@ -28,6 +28,13 @@
 **Thoughts** It was relatiely easy. I am scared of the javascript and framework stuff because I think it is too difficult to master.
 
 
+### Day 5: September 26, Saturday
+
+**Today's Progress**: Completed 50% of basic CSS from freecodecamp.org
+
+**Thoughts** It was very lazy today. Don't know what came over me, but I didn't want to do it. But I showed up and completed it anyway.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
