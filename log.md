@@ -35,6 +35,13 @@
 **Thoughts** It was very lazy today. Don't know what came over me, but I didn't want to do it. But I showed up and completed it anyway.
 
 
+### Day 6: September 27, Sunday
+
+**Today's Progress**: Completed 100% of basic CSS from freecodecamp.org
+
+**Thoughts** I was wondering if I would be able to complete basic css today. I did. Learnt a few things I didn't knew before.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
