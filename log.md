@@ -42,6 +42,13 @@
 **Thoughts** I was wondering if I would be able to complete basic css today. I did. Learnt a few things I didn't knew before.
 
 
+### Day 7: September 28, Monday
+
+**Today's Progress**: Completed 25% of Applied Visaual Design from freecodecamp.org
+
+**Thoughts** Tody there were a lot of distractions. Need to improve my focus on coding. But some days are just not good.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
