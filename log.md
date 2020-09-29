@@ -46,7 +46,14 @@
 
 **Today's Progress**: Completed 25% of Applied Visaual Design from freecodecamp.org
 
-**Thoughts** Tody there were a lot of distractions. Need to improve my focus on coding. But some days are just not good.
+**Thoughts** Toady there were a lot of distractions. Need to improve my focus on coding. But some days are just not good.
+
+
+### Day 8: September 29, Tuesday
+
+**Today's Progress**: Completed 58% of Applied Visaual Design from freecodecamp.org
+
+**Thoughts** I feel like this challenge is a big marathon. But thats the best part of it. It keeps me conding everyday.
 
 
 ##### (example to copy from later)
