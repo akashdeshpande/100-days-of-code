@@ -56,6 +56,13 @@
 **Thoughts** I feel like this challenge is a big marathon. But thats the best part of it. It keeps me conding everyday.
 
 
+### Day 9: September 30, Tuesday
+
+**Today's Progress**: Completed 100% of Applied Visaual Design from freecodecamp.org
+
+**Thoughts** I feel good today. The challenge got a little tough at the end, but I managed it.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
