@@ -63,6 +63,13 @@
 **Thoughts** I feel good today. The challenge got a little tough at the end, but I managed it.
 
 
+### Day 10: September 1, Wednesday
+
+**Today's Progress**: Completed 50% of Applied Accessibility from freecodecamp.org
+
+**Thoughts** I was distracted today. Distractions in web browsers and YouTube are easy to fall into. I must do something about it.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
