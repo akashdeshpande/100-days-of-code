@@ -70,6 +70,13 @@
 **Thoughts** I was distracted today. Distractions in web browsers and YouTube are easy to fall into. I must do something about it.
 
 
+### Day 11: September 2, Thursday
+
+**Today's Progress**: Completed Applied Accessibility from freecodecamp.org
+
+**Thoughts** Feels good after I've completed something. I've yet to build a big project, so I'm excited about it and I look forward to it.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
