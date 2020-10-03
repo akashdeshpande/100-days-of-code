@@ -77,6 +77,13 @@
 **Thoughts** Feels good after I've completed something. I've yet to build a big project, so I'm excited about it and I look forward to it.
 
 
+### Day 12: September 3, Friday
+
+**Today's Progress**: Completed Responsive web design principles and 18% of CSS Flexbox from freecodecamp.org
+
+**Thoughts** Today it took a lot of willpwoer to complete my day. I guess some days test your patience and willpower.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
