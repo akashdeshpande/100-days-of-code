@@ -56,32 +56,39 @@
 **Thoughts** I feel like this challenge is a big marathon. But thats the best part of it. It keeps me conding everyday.
 
 
-### Day 9: September 30, Tuesday
+### Day 9: September 30, Wednesday
 
 **Today's Progress**: Completed 100% of Applied Visaual Design from freecodecamp.org
 
 **Thoughts** I feel good today. The challenge got a little tough at the end, but I managed it.
 
 
-### Day 10: September 1, Wednesday
+### Day 10: September 1, Thursday
 
 **Today's Progress**: Completed 50% of Applied Accessibility from freecodecamp.org
 
 **Thoughts** I was distracted today. Distractions in web browsers and YouTube are easy to fall into. I must do something about it.
 
 
-### Day 11: September 2, Thursday
+### Day 11: September 2, Friday
 
 **Today's Progress**: Completed Applied Accessibility from freecodecamp.org
 
 **Thoughts** Feels good after I've completed something. I've yet to build a big project, so I'm excited about it and I look forward to it.
 
 
-### Day 12: September 3, Friday
+### Day 12: September 3, Saturday
 
 **Today's Progress**: Completed Responsive web design principles and 18% of CSS Flexbox from freecodecamp.org
 
 **Thoughts** Today it took a lot of willpwoer to complete my day. I guess some days test your patience and willpower.
+
+
+### Day 13: September 4, Sunday
+
+**Today's Progress**: Completed 65% of CSS Flexbox from freecodecamp.org
+
+**Thoughts** This consistency of this challenge is difficult to maintain sometimes. But I managed today. I hope it pays off in the long run.
 
 
 ##### (example to copy from later)
