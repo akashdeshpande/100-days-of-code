@@ -91,6 +91,13 @@
 **Thoughts** This consistency of this challenge is difficult to maintain sometimes. But I managed today. I hope it pays off in the long run.
 
 
+### Day 14: September 5, Monday
+
+**Today's Progress**: Completed CSS Flexbox from freecodecamp.org
+
+**Thoughts** Chellenges are getting harder, I have to absorb many concepts. Flexbox has many properties, grid is yet remianing.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
