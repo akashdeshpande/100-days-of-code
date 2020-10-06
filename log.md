@@ -95,7 +95,14 @@
 
 **Today's Progress**: Completed CSS Flexbox from freecodecamp.org
 
-**Thoughts** Chellenges are getting harder, I have to absorb many concepts. Flexbox has many properties, grid is yet remianing.
+**Thoughts** Challenges are getting harder, I have to absorb many concepts. Flexbox has many properties, grid is yet remianing.
+
+
+### Day 15: September 6, Tuesday
+
+**Today's Progress**: Completed 82% of CSS Grid from freecodecamp.org
+
+**Thoughts** Today was good, grid is easy to understand but iy is difficult to remember everything.
 
 
 ##### (example to copy from later)
