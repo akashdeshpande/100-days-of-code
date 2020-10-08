@@ -105,6 +105,20 @@
 **Thoughts** Today was good, grid is easy to understand but iy is difficult to remember everything.
 
 
+### Day 16: September 7, Wednesday
+
+**Today's Progress**: Worked on a codepen that changes theme (dark/light) mode with a click
+
+**Thoughts** I think it worked out really well, I didn't know CSS has variables, I made variables in JS. I am hopeful for the future.
+
+
+### Day 17: September 8, Thursday
+
+**Today's Progress**: Completed 100% of CSS Grid from freecodecamp.org
+
+**Thoughts** Grid is a bit difficult to pick up on. But I successfully completed the tutorial. I may need to read docs on it again.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
