@@ -119,6 +119,13 @@
 **Thoughts** Grid is a bit difficult to pick up on. But I successfully completed the tutorial. I may need to read docs on it again.
 
 
+### Day 18: September 9, Friday
+
+**Today's Progress**: Researched what a tribute page looks like and what it shoudn't
+
+**Thoughts** My mind was building code in my brain as I was making the UI elements, which is cool.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
