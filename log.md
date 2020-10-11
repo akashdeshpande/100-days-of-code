@@ -126,6 +126,21 @@
 **Thoughts** My mind was building code in my brain as I was making the UI elements, which is cool.
 
 
+### Day 19: September 10, Saturday
+
+**Today's Progress**: Built UI further
+
+**Thoughts** I have a complex UI in my mind, I don't know how much of it will I be able to execute
+
+
+### Day 20: September 11, Sunday
+
+**Today's Progress**: Inited a git repo, pushed first commit, watched a few vids on git and github again
+
+**Thoughts** I have a complex UI in my mind, I don't know how much of it will I be able to execute
+
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
