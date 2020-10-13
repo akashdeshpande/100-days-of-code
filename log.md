@@ -140,6 +140,20 @@
 **Thoughts** I have a complex UI in my mind, I don't know how much of it will I be able to execute
 
 
+### Day 21: September 12, Monday
+
+**Today's Progress**: Did more research on tribute page
+
+**Thoughts** The challenge is harder than I expected it to be, mostly because I'm trying my best to make it look good.
+
+
+### Day 22: September 13, Tuesday
+
+**Today's Progress**: Commited images, made progress on header section
+
+**Thoughts** The challenge is harder than I expected it to be, mostly because I'm trying my best to make it look good.
+
+
 
 ##### (example to copy from later)
 ### Day x: Month 00, Day
