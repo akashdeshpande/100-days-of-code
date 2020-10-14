@@ -154,6 +154,12 @@
 **Thoughts** The challenge is harder than I expected it to be, mostly because I'm trying my best to make it look good.
 
 
+### Day 23: September 14, Wednesday
+
+**Today's Progress**: Changed images, made progress on header section, made progress on about section
+
+**Thoughts** Figured out a solution, went through grid concepts again. Feeling good.
+
 
 ##### (example to copy from later)
 ### Day x: Month 00, Day
