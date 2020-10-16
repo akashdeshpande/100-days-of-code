@@ -161,6 +161,13 @@
 **Thoughts** Figured out a solution, went through grid concepts again. Feeling good.
 
 
+### Day 24: September 16, Thursday
+
+**Today's Progress**: Missed a day. Added 2 new sections to Tribute Page
+
+**Thoughts** Feeling good today. Optimizing the code would be a challenge I think.
+
+
 ##### (example to copy from later)
 ### Day x: Month 00, Day
 
