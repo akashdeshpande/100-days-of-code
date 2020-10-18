@@ -161,11 +161,25 @@
 **Thoughts** Figured out a solution, went through grid concepts again. Feeling good.
 
 
-### Day 24: September 16, Thursday
+### Day 24: September 16, Friday
 
 **Today's Progress**: Missed a day. Added 2 new sections to Tribute Page
 
 **Thoughts** Feeling good today. Optimizing the code would be a challenge I think.
+
+
+### Day 25: September 17, Saturday
+
+**Today's Progress**: Made some morep rogress on tribute page
+
+**Thoughts** I think I will complete this challenge soon
+
+
+### Day 26: September 18, Sunday
+
+**Today's Progress**: Completed the tribute page challenge, I have not submitted the pen yet, hero section needs a bit of work
+
+**Thoughts** Feeling good today, optimising the code would still be a challenge, lot of factors into play.
 
 
 ##### (example to copy from later)
